@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894152264409",
+    "project_id": "get-jobs-app",
+    "storage_bucket": "get-jobs-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894152264409:android:cc7fef0958b4a85b684cc8",
+        "android_client_info": {
+          "package_name": "com.example.get_jobs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApyx8IBAB_8cPQqpo_tUEqyoDuxU10tAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
